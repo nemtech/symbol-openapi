@@ -15,7 +15,7 @@ properties:
   version:
     $ref: "../../../schemas/StateVersion.yml"
   address:
-    $ref: "../../../schemas/Address.yml"
+    $ref: "../../../schemas/AddressBase32.yml"
   addressHeight:
     $ref: "../../../schemas/Height.yml"
   publicKey:

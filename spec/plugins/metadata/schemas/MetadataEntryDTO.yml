@@ -15,7 +15,7 @@ properties:
   sourceAddress:
     $ref: "../../../schemas/Address.yml"
   targetAddress:
-    $ref: "../../../schemas/Address.yml"
+    $ref: "../../../schemas/AddressBase32.yml"
   scopedMetadataKey:
     $ref: "../../../schemas/MetadataKey.yml"
   targetId:
