@@ -39,6 +39,6 @@ allOf:
       stateHash:
         $ref: "../../../schemas/Hash256.yml"
       beneficiaryAddress:
-        $ref: "../../../schemas/Address.yml"
+        $ref: "../../../schemas/AddressBase32.yml"
       feeMultiplier:
         $ref: "../../../schemas/BlockFeeMultiplier.yml"
